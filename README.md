@@ -90,11 +90,11 @@ it('Deve realizar uma pesquisa no Google', async () => {
 - ES Modules: Sistema de módulos do JavaScript
 
 ## 📚 Melhorias Futuras
-- Adicionar suporte a screenshots nos relatórios
-- Implementar testes paralelos
-- Adicionar métricas de performance
-- Criar Dockerfile para containerização
-- Integrar com CI/CD (GitHub Actions)
+- [] Adicionar suporte a screenshots nos relatórios
+- [] Implementar testes paralelos
+- [] Adicionar métricas de performance
+- [] Criar Dockerfile para containerização
+- [] Integrar com CI/CD (GitHub Actions)
 
 ## 📄 Licença
 Este projeto está licenciado sob a MIT License.
