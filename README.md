@@ -2,15 +2,15 @@
 
 Projeto de automação de testes com integração em banco de dados e geração de relatórios, desenvolvido para demonstração de estudo técnicas.
 
-## 📌 Funcionalidades Principais
+## 📌 Funcionalidades Já Implementadas
 
-- ✅ Automação de testes web com Selenium
-- ✅ Armazenamento de resultados em banco de dados MySQL
-- ✅ Geração de relatórios HTML
-- ✅ Padrão Page Object Model
-- ✅ Configuração via variáveis de ambiente
-- ✅ Tratamento de erros e logging
-- ✅ Suporte a ES Modules
+- [x] Automação de testes web com Selenium
+- [x] Armazenamento de resultados em banco de dados MySQL
+- [x] Geração de relatórios HTML
+- [x] Padrão Page Object Model
+- [x] Configuração via variáveis de ambiente
+- [x] Tratamento de erros e logging
+- [x] Suporte a ES Modules
 
 ## 🛠 Pré-requisitos
 
